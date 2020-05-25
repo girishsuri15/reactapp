@@ -1,0 +1,39 @@
+{
+    "Products":[
+        {
+        "id":0,
+         "name":"apple",
+         "price":"30000",
+         "description":"IPhone 5",
+         "imageURL": "https://i.picsum.photos/id/613/200/300.jpg"
+        
+    },
+    {
+        "id":1,
+         "name":"Xiomai",
+         "price":"10000",
+         "description":"Xiomai redmi  2",
+         "imageURL": "https://i.picsum.photos/id/613/200/300.jpg"
+    },
+    {
+        "id":2,
+         "name":"Xiomai",
+         "price":"10000",
+         "description":"Xiomai redmi  2",
+         "imageURL": "https://i.picsum.photos/id/613/200/300.jpg"
+    },
+    {
+        "id":3,
+         "name":"Xiomai",
+         "price":"10000",
+         "description":"Xiomai redmi  2",
+         "imageURL": "https://i.picsum.photos/id/613/200/300.jpg"
+    }
+    ],
+    "Users":[
+          {
+               "name":"girish@gmail.com",
+                "password":"Girish@123456"
+          }
+]
+}
